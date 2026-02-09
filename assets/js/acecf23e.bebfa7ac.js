@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkris_kerr_senior_technical_writer=globalThis.webpackChunkkris_kerr_senior_technical_writer||[]).push([[1903],{1912(r){r.exports=JSON.parse('{"blogBasePath":"/Kris-Kerr/blog","blogTitle":"Blog","authorsListPath":"/Kris-Kerr/blog/authors"}')}}]);
