@@ -44,7 +44,7 @@ Before starting this procedure, deploy (successfully) all of the DCC containers.
             POST /api/v1/auth/users
                 {
                     "username": "newadmin",
-                    "password": "NewAdmin123!",
+                    "password": "REDACTED",
                     "email": "newadmin@nomail.com",
                     "description": "",
                     "firstname": "New",
