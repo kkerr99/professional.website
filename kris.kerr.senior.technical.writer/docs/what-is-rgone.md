@@ -5,7 +5,7 @@ keywords:
     - rgOne
 ---
 
-## What is the rgOne documentation?
+## What is the rgOne documentation set?
 
 My last job was with [Redpoint Global](https://www.redpointglobal.com/). After I wrote two PDF-based manuals for Redpoint ([Master Data Management User Guide](https://kris-kerr-senior-technical-writer.netlify.app/assets/files/redpoint-master-data-management-user-guide-d618d3c775be8fac8257e1ee5c061c3b.pdf) and [Automated Machine Learning User Guide](https://kris-kerr-senior-technical-writer.netlify.app/assets/files/redpoint-aml-user-guide-259b6efe7aecc539a9c517d4ce2b408a.pdf)) the company switched to static docs site-based documentation (based upon my recommendation and a prototype Docusaurus static docs site I created as a demonstration).
 
