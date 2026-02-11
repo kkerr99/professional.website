@@ -94,9 +94,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'rgoneSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Static docs site documentation example',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
